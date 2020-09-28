@@ -32,5 +32,5 @@
 ### jbentley1011@gmail
 
 ## Demo
-[![demo]({})]({https://youtu.be/lOLY2uBs6R4} "Demo")
+[![demo]({})](https://youtu.be/lOLY2uBs6R4)
 <!-- [![Alternate Text]({image-url})]({video-url} "Link Title") -->
